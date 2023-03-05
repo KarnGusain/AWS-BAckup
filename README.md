@@ -111,4 +111,6 @@ Example:
 
 $ heck_backup_status_script.sh job_ids
 ```
-10. It will simply run and will send you HTML body atched ion the e-mail.
+10. It will simply run and will send you HTML body atched ion the e-mail, see the dummy result below..
+![image](https://user-images.githubusercontent.com/30109092/222948800-c3025b6a-388c-446b-94fc-d01941f1c89b.png)
+
